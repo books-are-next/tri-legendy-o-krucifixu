@@ -2,38 +2,18 @@
   "author": "Julius Zeyer",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "zeyer-tri-legendy-o-krucifixu-cdbd462",
+  "identifier": "zeyer-tri-legendy-o-krucifixu-05b1f80",
   "languagecode": "cs",
   "modified": "2022-01-20T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Tři legendy o krucifixu",
-  "revision": "cdbd462",
+  "revision": "05b1f80",
   "generatedAt": {
-    "date": "Thu Apr 14 2022 08:07:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649923665856
+    "date": "Thu Apr 14 2022 08:14:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649924047129
   },
   "documents": [
-    {
-      "title": "Tři legendy o krucifixu",
-      "file": "tri_legendy_o_krucifixu_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "tri_legendy_o_krucifixu_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Tři legendy o krucifixu",
       "file": "tri_legendy_o_krucifixu_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "tri_legendy_o_krucifixu_001.html",
-      "next": "tri_legendy_o_krucifixu_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tři legendy o krucifixu",
-      "file": "tri_legendy_o_krucifixu_003.html",
-      "words": 6,
-      "chars": 34,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "tri_legendy_o_krucifixu_002.html",
-      "next": "tri_legendy_o_krucifixu_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tři legendy o krucifixu",
-      "file": "tri_legendy_o_krucifixu_004.html",
-      "words": 90,
-      "chars": 588,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "tri_legendy_o_krucifixu_003.html",
+      "order": 0,
+      "prev": null,
       "next": "tri_legendy_o_krucifixu_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 4,
-      "prev": "tri_legendy_o_krucifixu_004.html",
+      "order": 1,
+      "prev": "tri_legendy_o_krucifixu_002.html",
       "next": "tri_legendy_o_krucifixu_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 35669,
       "ideas": 146,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "tri_legendy_o_krucifixu_005.html",
       "next": "tri_legendy_o_krucifixu_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 45166,
       "ideas": 126,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "tri_legendy_o_krucifixu_006.html",
       "next": "tri_legendy_o_krucifixu_008.html",
       "toc": [
@@ -161,9 +101,9 @@
       "chars": 39175,
       "ideas": 52,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "tri_legendy_o_krucifixu_007.html",
-      "next": "tri_legendy_o_krucifixu_009.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -175,20 +115,20 @@
       ]
     },
     {
-      "title": "Tři legendy o krucifixu",
-      "file": "tri_legendy_o_krucifixu_009.html",
-      "words": 45,
-      "chars": 305,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 8,
+      "title": "Tiráž • Tři legendy o krucifixu",
+      "file": "colophon.html",
+      "words": 142,
+      "chars": 932,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
       "prev": "tri_legendy_o_krucifixu_008.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -202,9 +142,9 @@
       "ideas": 350
     },
     "chapters": {
-      "words": 20443,
-      "chars": 120937,
-      "ideas": 345
+      "words": 20302,
+      "chars": 120010,
+      "ideas": 324
     }
   }
 }

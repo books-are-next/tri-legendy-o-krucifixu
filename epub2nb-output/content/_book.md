@@ -14,18 +14,27 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - tri_legendy_o_krucifixu_001.html
   - tri_legendy_o_krucifixu_002.html
-  - tri_legendy_o_krucifixu_003.html
-  - tri_legendy_o_krucifixu_004.html
   - tri_legendy_o_krucifixu_005.html
   - tri_legendy_o_krucifixu_006.html
   - tri_legendy_o_krucifixu_007.html
   - tri_legendy_o_krucifixu_008.html
-  - tri_legendy_o_krucifixu_009.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: tri_legendy_o_krucifixu_005.html
+        title: Věnování
+        hiddenTitle: true
+      - link: tri_legendy_o_krucifixu_006.html
+        title: Inultus Legenda pražská
+        hiddenTitle: false
+      - link: tri_legendy_o_krucifixu_007.html
+        title: El Cristo de la Luz Legenda toledská
+        hiddenTitle: false
+      - link: tri_legendy_o_krucifixu_008.html
+        title: Samko Pták Legenda slovenská
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
