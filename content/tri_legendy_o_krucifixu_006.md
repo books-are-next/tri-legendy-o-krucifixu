@@ -1,9 +1,7 @@
 ---
+title: Inultus Legenda pražská
 contentType: prose
 ---
-
-Inultus  
-Legenda pražská
 
   
 

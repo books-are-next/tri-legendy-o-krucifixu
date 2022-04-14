@@ -1,9 +1,7 @@
 ---
+title: El Cristo de la Luz Legenda toledská
 contentType: prose
 ---
-
-El Cristo de la Luz  
-Legenda toledská
 
   
 
