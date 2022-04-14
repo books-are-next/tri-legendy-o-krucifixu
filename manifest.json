@@ -1,0 +1,210 @@
+{
+  "author": "Julius Zeyer",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "zeyer-tri-legendy-o-krucifixu-cdbd462",
+  "languagecode": "cs",
+  "modified": "2022-01-20T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Tři legendy o krucifixu",
+  "revision": "cdbd462",
+  "generatedAt": {
+    "date": "Thu Apr 14 2022 08:07:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649923665856
+  },
+  "documents": [
+    {
+      "title": "Tři legendy o krucifixu",
+      "file": "tri_legendy_o_krucifixu_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "tri_legendy_o_krucifixu_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři legendy o krucifixu",
+      "file": "tri_legendy_o_krucifixu_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "tri_legendy_o_krucifixu_001.html",
+      "next": "tri_legendy_o_krucifixu_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři legendy o krucifixu",
+      "file": "tri_legendy_o_krucifixu_003.html",
+      "words": 6,
+      "chars": 34,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "tri_legendy_o_krucifixu_002.html",
+      "next": "tri_legendy_o_krucifixu_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři legendy o krucifixu",
+      "file": "tri_legendy_o_krucifixu_004.html",
+      "words": 90,
+      "chars": 588,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "tri_legendy_o_krucifixu_003.html",
+      "next": "tri_legendy_o_krucifixu_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři legendy o krucifixu",
+      "file": "tri_legendy_o_krucifixu_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "tri_legendy_o_krucifixu_004.html",
+      "next": "tri_legendy_o_krucifixu_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Inultus Legenda pražská • Tři legendy o krucifixu",
+      "file": "tri_legendy_o_krucifixu_006.html",
+      "words": 6005,
+      "chars": 35669,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 5,
+      "prev": "tri_legendy_o_krucifixu_005.html",
+      "next": "tri_legendy_o_krucifixu_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Inultus Legenda pražská",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "El Cristo de la Luz Legenda toledská • Tři legendy o krucifixu",
+      "file": "tri_legendy_o_krucifixu_007.html",
+      "words": 7569,
+      "chars": 45166,
+      "ideas": 126,
+      "role": "chapter",
+      "order": 6,
+      "prev": "tri_legendy_o_krucifixu_006.html",
+      "next": "tri_legendy_o_krucifixu_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "El Cristo de la Luz Legenda toledská",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Samko Pták Legenda slovenská • Tři legendy o krucifixu",
+      "file": "tri_legendy_o_krucifixu_008.html",
+      "words": 6728,
+      "chars": 39175,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 7,
+      "prev": "tri_legendy_o_krucifixu_007.html",
+      "next": "tri_legendy_o_krucifixu_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Samko Pták Legenda slovenská",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři legendy o krucifixu",
+      "file": "tri_legendy_o_krucifixu_009.html",
+      "words": 45,
+      "chars": 305,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 8,
+      "prev": "tri_legendy_o_krucifixu_008.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 20452,
+      "chars": 120988,
+      "ideas": 350
+    },
+    "chapters": {
+      "words": 20443,
+      "chars": 120937,
+      "ideas": 345
+    }
+  }
+}

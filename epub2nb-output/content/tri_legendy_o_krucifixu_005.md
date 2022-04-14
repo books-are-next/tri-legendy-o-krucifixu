@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Vzácnému příteli  
+_Vzácnému příteli  
 Zenonu Przesmyckému,  
 jenž v polské poezii sluje  
-Miriam
+Miriam_

@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Tři legendy o krucifixu",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Julius Zeyer",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-20T00:00:00.000Z"
+      "modified": "2022-01-20T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -17,12 +21,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku_-12-0-",
+      "brAfter": "MLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_venovani",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
     },
@@ -30,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "tri_legendy_o_krucifixu_001.md",
@@ -174,19 +179,19 @@
         "xhtml": "tri_legendy_o_krucifixu_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Inultus Legenda pražská",
         "subtitleSuggest": "",
         "filename": "tri_legendy_o_krucifixu_006.md",
         "xhtml": "tri_legendy_o_krucifixu_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "El Cristo de la Luz Legenda toledská",
         "subtitleSuggest": "",
         "filename": "tri_legendy_o_krucifixu_007.md",
         "xhtml": "tri_legendy_o_krucifixu_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Samko Pták Legenda slovenská",
         "subtitleSuggest": "",
         "filename": "tri_legendy_o_krucifixu_008.md",
         "xhtml": "tri_legendy_o_krucifixu_008.xhtml"
@@ -270,6 +275,6 @@
       "user": "books-are-next",
       "repo": "tri-legendy-o-krucifixu"
     },
-    "generatedAt": 1649923222814
+    "generatedAt": 1649923588204
   }
 }

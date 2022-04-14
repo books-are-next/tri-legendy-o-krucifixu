@@ -1,9 +1,7 @@
 ---
+title: Samko Pták Legenda slovenská
 contentType: prose
 ---
-
-Samko Pták  
-Legenda slovenská
 
   
 
