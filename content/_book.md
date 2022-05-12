@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - tri_legendy_o_krucifixu_002.html
+  - promo.html
   - tri_legendy_o_krucifixu_005.html
   - tri_legendy_o_krucifixu_006.html
   - tri_legendy_o_krucifixu_007.html
