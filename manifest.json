@@ -1,22 +1,31 @@
 {
-  "author": "Julius Zeyer",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "zeyer-tri-legendy-o-krucifixu-05b1f80",
-  "languagecode": "cs",
-  "modified": "2022-01-20T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Tři legendy o krucifixu",
-  "revision": "05b1f80",
+  "author": "Julius Zeyer",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "zeyer-tri-legendy-o-krucifixu-b300a9d",
+  "revision": "b300a9d",
+  "readingOrder": [
+    "promo.html",
+    "tri_legendy_o_krucifixu_005.html",
+    "tri_legendy_o_krucifixu_006.html",
+    "tri_legendy_o_krucifixu_007.html",
+    "tri_legendy_o_krucifixu_008.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Apr 14 2022 08:14:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649924047129
+    "date": "Thu May 12 2022 10:43:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352194708
   },
   "documents": [
     {
-      "title": "Tři legendy o krucifixu",
-      "file": "tri_legendy_o_krucifixu_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +33,7 @@
       "order": 0,
       "prev": null,
       "next": "tri_legendy_o_krucifixu_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Tři legendy o krucifixu",
@@ -42,7 +43,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "tri_legendy_o_krucifixu_002.html",
+      "prev": "promo.html",
       "next": "tri_legendy_o_krucifixu_006.html",
       "toc": [
         {
@@ -55,7 +56,7 @@
       ]
     },
     {
-      "title": "Inultus Legenda pražská • Tři legendy o krucifixu",
+      "title": "Inultus Legenda pražská",
       "file": "tri_legendy_o_krucifixu_006.html",
       "words": 6005,
       "chars": 35669,
@@ -75,7 +76,7 @@
       ]
     },
     {
-      "title": "El Cristo de la Luz Legenda toledská • Tři legendy o krucifixu",
+      "title": "El Cristo de la Luz Legenda toledská",
       "file": "tri_legendy_o_krucifixu_007.html",
       "words": 7569,
       "chars": 45166,
@@ -95,7 +96,7 @@
       ]
     },
     {
-      "title": "Samko Pták Legenda slovenská • Tři legendy o krucifixu",
+      "title": "Samko Pták Legenda slovenská",
       "file": "tri_legendy_o_krucifixu_008.html",
       "words": 6728,
       "chars": 39175,
@@ -115,11 +116,11 @@
       ]
     },
     {
-      "title": "Tiráž • Tři legendy o krucifixu",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 142,
-      "chars": 932,
-      "ideas": 22,
+      "words": 120,
+      "chars": 787,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "tri_legendy_o_krucifixu_008.html",
@@ -137,9 +138,9 @@
   ],
   "totals": {
     "all": {
-      "words": 20452,
-      "chars": 120988,
-      "ideas": 350
+      "words": 20430,
+      "chars": 120843,
+      "ideas": 343
     },
     "chapters": {
       "words": 20302,
