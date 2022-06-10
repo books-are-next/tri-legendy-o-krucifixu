@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zeyer-tri-legendy-o-krucifixu-b300a9d",
-  "revision": "b300a9d",
+  "identifier": "zeyer-tri-legendy-o-krucifixu-04b9cb2",
+  "revision": "04b9cb2",
   "readingOrder": [
     "promo.html",
     "tri_legendy_o_krucifixu_005.html",
@@ -19,8 +19,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:43:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352194708
+    "date": "Fri Jun 10 2022 17:57:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883838549
   },
   "documents": [
     {
@@ -38,9 +38,9 @@
     {
       "title": "Tři legendy o krucifixu",
       "file": "tri_legendy_o_krucifixu_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 10,
+      "chars": 68,
+      "ideas": 4,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -118,9 +118,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 120,
-      "chars": 787,
-      "ideas": 15,
+      "words": 85,
+      "chars": 569,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "tri_legendy_o_krucifixu_008.html",
@@ -138,14 +138,14 @@
   ],
   "totals": {
     "all": {
-      "words": 20430,
-      "chars": 120843,
-      "ideas": 343
+      "words": 20405,
+      "chars": 120693,
+      "ideas": 339
     },
     "chapters": {
-      "words": 20302,
-      "chars": 120010,
-      "ideas": 324
+      "words": 20312,
+      "chars": 120078,
+      "ideas": 328
     }
   }
 }

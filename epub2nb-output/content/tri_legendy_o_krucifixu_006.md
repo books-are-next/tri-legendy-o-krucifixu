@@ -3,7 +3,7 @@ title: Inultus Legenda pražská
 contentType: prose
 ---
 
-  
+<section>
 
 Bylo to asi dvacet let po bitvě na Bílé hoře.
 
@@ -296,3 +296,5 @@ Jak mohli to viděti ti hrdí, ješitností zpití, prázdnou slávou toho svět
 [6](./resources/undefined) Nespokjenec. Pozn. red.
 
 [7](./resources/undefined) Náměsíčná. Pozn. red.
+
+</section>

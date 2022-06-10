@@ -3,7 +3,7 @@ title: Samko Pták Legenda slovenská
 contentType: prose
 ---
 
-  
+<section>
 
 Noc byla temná jako osud slovenského kraje, bouře duněla v dáli jako lítý vztek mongolské hordy, která podnes utýraný lid ten dáví. Tma byla hustá, takže nebylo vidět hor. Lesy hučely, bystřice letěla mezi skalami, posupná, chladná, nepřátelská. Jen na jednom místě byla plna rudého blesku, jako kdyby někdo poklad zlata a rubínů byl do její mělčiny vysypal. To padalo otevřenými dveřmi z blízkého dvora na ni světlo. Ohromný oheň šlehal tam v kamenném krbu v prostranné kuchyni, pekli u něho celého berana na rošti. Muži světlých očí a tvrdých tváří seděli blízko na dřevěné lavici a pili z hliněných džbánů. Dvéře zely dokořán, bylo horko u toho vesele praskajícího ohně, svítícího na řeku a na stezku vedoucí podél jejího břehu. Na té cestě zjevila se teď vysoká, hubená postava mladého muže. Byl v roztrhané haleně a bos. Plavé jeho vlasy padaly měkce a dlouze na jeho kostnatá ramena, oči byly jako kus blankytného nebe, byly plaché a snivé a krotké. Tvář byla bledá, bídou zohyzděná, k smrti smutná v tom okamžiku a znamenaná krvavým pruhem, táhnoucím se od pravé skráně přes ústa až pod levé ucho. Ubožák zastavil se několik kroků ode dveří, neodvážil se dál. Rty jeho zachvěly se a temnou nocí, těžkým před bouří vzduchem nesl se od nich místo slova ptačí jakýsi švehol, tichý, sladký a smutný. Hudba ta zavála do bílené, ohněm ozářené kuchyně a hospodář vyšel na práh. Ten ptačí hlahol v temnu noci, při blížící se bouři budil nějak jeho podivení. Hledal ptáka, a zahlíd člověka.
 
@@ -108,3 +108,5 @@ Celou noc trávili mniši v modlitbách. Ráno pak oděli tělo toho, jehož du
 * * *
 
 [12](./resources/undefined) Posílal. Pozn. red.
+
+</section>
