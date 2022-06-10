@@ -3,7 +3,7 @@ title: El Cristo de la Luz Legenda toledská
 contentType: prose
 ---
 
-  
+<section>
 
 V jedné z nejstarších synagóg v Toledě, v té, která se později křesťanským kostelem stala a ještě dnes se Santa Maria la Blanca nazývá, shromažďovali se jednou na jaře, hluboce ve středověku, židé slavící své velkonoce. Ve všech pěti lodích svatyně, u každého z mohutných osmihranných sloupů, zdobených byzantinskými hlavicemi, stál ohromný sedmiramenný kandelábr mosazný, nesoucí množství planoucích voskovic. Žluté jejich světlo plápolalo slavnostně a lehký dým nesl se vzhůru ke krásným obloukům a vlysům, provedeným slohem judským, pojícím arabskou grácii se symbolickou vážností starozákonní. Dveře synagógy byly otevřené, nebylo třeba obávati se vyrušení z pobožnosti, neboť kolem posvátné budovy kvetla velká zahrada plná myrtových stromů a cedrů, obehnaná vysokou zdí, loučící chrám i jeho sad od městského okolí. Večerní vzduch byl prosycen zlatem západu a vůní fialek, šelest stromů pojil se s tichým šumem modliteb, nesoucích se z chrámu, a jasný na kameny pleskot vody, čerpané z dvou hlubokých studní, u nichž věřící své obřadné očišťování konali, mísil stříbrné své zvuky v táhlé mručení lidských hlasů, splynulé s ševelem stromů.
 
@@ -256,3 +256,5 @@ A zjev, jako tenkráte v sluji, sunul se blíže jako hvězdný paprslek a rt
 [10](./resources/undefined) Člen sekty židovských křesťanů, která prohlašovala Starý zákon za pramen víry i pro křesťany; mezi ně byl počítán i Ježíš. Pozn. red.
 
 [11](./resources/undefined) Starosta města, sudí. Pozn. red.
+
+</section>
