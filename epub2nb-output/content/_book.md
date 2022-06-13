@@ -13,6 +13,7 @@ meta:
   modified: '2022-01-20T00:00:00.000Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2499-3
 readingOrder:
   - promo.html
   - tri_legendy_o_krucifixu_005.html
