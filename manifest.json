@@ -8,19 +8,19 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zeyer-tri-legendy-o-krucifixu-4b79796",
-  "revision": "4b79796",
+  "identifier": "zeyer-tri-legendy-o-krucifixu-fb9fd5b",
+  "revision": "fb9fd5b",
   "readingOrder": [
     "promo.html",
     "tri_legendy_o_krucifixu_005.html",
     "tri_legendy_o_krucifixu_006.html",
     "tri_legendy_o_krucifixu_007.html",
     "tri_legendy_o_krucifixu_008.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:30:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980253251
+    "date": "Thu Jul 07 2022 08:41:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183302266
   },
   "documents": [
     {
@@ -89,7 +89,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "El Cristo de la Luz Legenda toledská",
+          "name": "El Cristo de la Luz Legenda toledská",
           "id": null,
           "children": []
         }
@@ -104,7 +104,7 @@
       "role": "chapter",
       "order": 4,
       "prev": "tri_legendy_o_krucifixu_007.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -117,11 +117,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 134,
-      "chars": 887,
+      "chars": 886,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "tri_legendy_o_krucifixu_008.html",
       "next": null,
@@ -138,8 +138,8 @@
   ],
   "totals": {
     "all": {
-      "words": 20454,
-      "chars": 121011,
+      "words": 20453,
+      "chars": 121015,
       "ideas": 347
     },
     "chapters": {

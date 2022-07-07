@@ -20,7 +20,7 @@ readingOrder:
   - tri_legendy_o_krucifixu_006.html
   - tri_legendy_o_krucifixu_007.html
   - tri_legendy_o_krucifixu_008.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
