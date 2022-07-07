@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zeyer-tri-legendy-o-krucifixu-fb9fd5b",
-  "revision": "fb9fd5b",
+  "identifier": "zeyer-tri-legendy-o-krucifixu-50da4e9",
+  "revision": "50da4e9",
   "readingOrder": [
     "promo.html",
     "tri_legendy_o_krucifixu_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 08:41:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657183302266
+    "date": "Thu Jul 07 2022 10:07:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657188447779
   },
   "documents": [
     {
