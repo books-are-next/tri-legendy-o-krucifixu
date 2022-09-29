@@ -7,7 +7,7 @@ contentType: prose
 
 Bylo to asi dvacet let po bitvě na Bílé hoře.
 
-Byl večer krásný. Slunce zapadalo za Petřínem. Hradčany plály v růžovém svitu, Vltava zdála se řekou z temného tekutého jantaru. Karlův most hemžil se lidmi, koňmi, kočáry. Byl to nádherný obraz. Co tu jezdilo na ohnivých ořích, v bohatém kroji šlechticů, těch hrdých, skvělých cizích vetřelců, zaujímajících místa a práva oloupených domácích rodů, co jich tu jezdilo těch druhých, těch zrádných, prokletých, pocházejících z české krve, kterou byli zapřeli a zaprodali za jidášský groš! Byl to nádherný obraz. V pozlacených těžkých karosách[1](./resources/undefined) slunili se preláti, jejichž vrátní by nebyli Spasitele do domu pustili, kdyby chud a bos u nich byl zaklepal, pyšnily se krásné dámy v hedvábí a zlatohlavu, v jejichž prázdných duších nebylo jediného pravého ženského hnutí. Mezi koňmi a kočáry tlačili se měšťané, tuční, věčně spokojení, plní-li se jejich měšec a jde-li jim oběd k duhu. Vyplňovali klidní ti občané vhodně prázdno mezi kočáry a koňmi a doplňovali důstojně skvělý ten obraz, jenž měl jedinou jen skvrnu. Byla to tlupa rozedraných žebráků blízko staroměstské věže mostní. Ti byli české zemi věrni zůstali, oni, tou dobou její symbol, byli jí věrni zůstali jako bída a slzy a utrpení, které z hranic jejích stěhovat se nechtějí.
+Byl večer krásný. Slunce zapadalo za Petřínem. Hradčany plály v růžovém svitu, Vltava zdála se řekou z temného tekutého jantaru. Karlův most hemžil se lidmi, koňmi, kočáry. Byl to nádherný obraz. Co tu jezdilo na ohnivých ořích, v bohatém kroji šlechticů, těch hrdých, skvělých cizích vetřelců, zaujímajících místa a práva oloupených domácích rodů, co jich tu jezdilo těch druhých, těch zrádných, prokletých, pocházejících z české krve, kterou byli zapřeli a zaprodali za jidášský groš! Byl to nádherný obraz. V pozlacených těžkých karosách[^1] slunili se preláti, jejichž vrátní by nebyli Spasitele do domu pustili, kdyby chud a bos u nich byl zaklepal, pyšnily se krásné dámy v hedvábí a zlatohlavu, v jejichž prázdných duších nebylo jediného pravého ženského hnutí. Mezi koňmi a kočáry tlačili se měšťané, tuční, věčně spokojení, plní-li se jejich měšec a jde-li jim oběd k duhu. Vyplňovali klidní ti občané vhodně prázdno mezi kočáry a koňmi a doplňovali důstojně skvělý ten obraz, jenž měl jedinou jen skvrnu. Byla to tlupa rozedraných žebráků blízko staroměstské věže mostní. Ti byli české zemi věrni zůstali, oni, tou dobou její symbol, byli jí věrni zůstali jako bída a slzy a utrpení, které z hranic jejích stěhovat se nechtějí.
 
 Zraky krásných paní, hrdých šlechticů, tučných měšťanů nezavadily hrubě o ten dav vychrtlých, zbědovaných postav, a zabloudily-li oči jejich náhodou k nim, odvracely se rychle od neladného obrazu. Jen sem tam podala jim některá z pěšky chodících, v smutku oděných žen nějakou almužnu. Žebráci ti seděli na dlažbě, tulili se k sobě, staří, slepí, malomocní, v cárech, jako jediná rodina: společná jejich matka byla nevýslovná bída.
 
@@ -33,7 +33,7 @@ Ode rtů ženy zazněl malý výkřik překvapení. Pronesla tiše a rychle ně
 
 Tvář mladíkova zbarvila se dotemna a vymkl ruku svou z její. Světlo svítilny padalo posud na jeho obličej a krásná žena viděla tam jeho stud. Usmála se hrdě a klidně.
 
-„Jsem dona Flavia Santini z Mediolánu[2](./resources/undefined),“ řekla prostě. „Dům můj jest bez poskvrny. Neslyšel jste nikdy moje jméno? Mnozí z nejpřednějších lidí tohoto města pokládali by si za čest pozvání, které vy tak urážlivě odmítáte.“
+„Jsem dona Flavia Santini z Mediolánu[^2],“ řekla prostě. „Dům můj jest bez poskvrny. Neslyšel jste nikdy moje jméno? Mnozí z nejpřednějších lidí tohoto města pokládali by si za čest pozvání, které vy tak urážlivě odmítáte.“
 
 Kývla mu rukou a pravila starému muži: „Pojď a sviť.“
 
@@ -51,7 +51,7 @@ Kývla mu rukou a pravila starému muži: „Pojď a sviť.“
 
 „A vy, kým jste vy?“ tázala se krásná žena.
 
-„Jsem poetou,“ zašeptal tak tiše, že to zaniklo téměř ve vání večerního větru. A bylo mu smutno a teskno. Myslil na všechny písně, které mu v srdci klíčily a které jako ptáci v kleci smutně mlčely, neb nebylo jim lze vytrysknouti z jeho stísněných prsou, na nichž ležel balvan prokletí a neštěstí těžce, přetěžce jako na celé rodné jeho zemi. Úpěly tam ty písně záští, tyrtejské[3](./resources/undefined) ty výkřiky, lkaly tam ty thrény[4](./resources/undefined) nad bídou země a nad záhubou vlastní rodiny, ale nenalezly tvaru a slov, neb v agónii té země oněměl její génius a každý jednotlivec v době té žijící byl strnulý, omráčený, zkamenělý jako ona celá.
+„Jsem poetou,“ zašeptal tak tiše, že to zaniklo téměř ve vání večerního větru. A bylo mu smutno a teskno. Myslil na všechny písně, které mu v srdci klíčily a které jako ptáci v kleci smutně mlčely, neb nebylo jim lze vytrysknouti z jeho stísněných prsou, na nichž ležel balvan prokletí a neštěstí těžce, přetěžce jako na celé rodné jeho zemi. Úpěly tam ty písně záští, tyrtejské[^3] ty výkřiky, lkaly tam ty thrény[^4] nad bídou země a nad záhubou vlastní rodiny, ale nenalezly tvaru a slov, neb v agónii té země oněměl její génius a každý jednotlivec v době té žijící byl strnulý, omráčený, zkamenělý jako ona celá.
 
 Dona Flavia byla šepot jeho zaslechla, přestože byl tak tichý, a pravila: „Vy jste poetou! Tím lépe, neb porozumíte mi tím snadněji. Je to věc velice vážná, o které s vámi promluviti chci.“
 
@@ -69,7 +69,7 @@ Básník seděl naproti ní a starý muž, který nebyl z pokoje vyšel, usedl
 
 Stařec se usmál vlídně. „Je němý,“ řekla tiše Flavia.
 
-Nastala krátká pomlčka a dona Flavia jala se pak takto mluviti: „Vy neslyšel jste tedy nikdy moje jméno? A jsem v Praze přece už celou řadu let a říkají mi, že jsem slavná. Vy neslyšel jste však snad ani jméno Properzie de Rossi? Neslyšel! Nuž, to může mé samolibosti býti útěchou. Properzie de Rossi z Bononie[5](./resources/undefined) byla nejslavnější sochařka italská. Výkony její jsou plné síly a božské krásy. Vídala jsem je v Itálii už co dítě a nadchly mne už tenkráte. Daly mi později směr a podnět pro celý život. Stala jsem se sochařkou jako Properzie.“
+Nastala krátká pomlčka a dona Flavia jala se pak takto mluviti: „Vy neslyšel jste tedy nikdy moje jméno? A jsem v Praze přece už celou řadu let a říkají mi, že jsem slavná. Vy neslyšel jste však snad ani jméno Properzie de Rossi? Neslyšel! Nuž, to může mé samolibosti býti útěchou. Properzie de Rossi z Bononie[^5] byla nejslavnější sochařka italská. Výkony její jsou plné síly a božské krásy. Vídala jsem je v Itálii už co dítě a nadchly mne už tenkráte. Daly mi později směr a podnět pro celý život. Stala jsem se sochařkou jako Properzie.“
 
 Flavia se zamyslila a řekla pak tiše před sebe: „Dosáhnu kdy její výše?“ Pak obrátila se k mladému poetovi a tázala se jej: „A jaké jest vaše jméno?“
 
@@ -79,7 +79,7 @@ Svraštil čelo, v očích jeho jevil se hluboký smutek, neodpověděl hned, p
 
 „A přece,“ řekl Inultus, „mohl by se tak každý v nešťastné této zemi nazývati, neb nežije zde ani duše jediná, která by nečekala buď pomsty, nebo trestu.“
 
-„Ach, vy patříte mezi malkontenty[6](./resources/undefined),“ řekla dona Flavia, „tím lépe.“
+„Ach, vy patříte mezi malkontenty[^6],“ řekla dona Flavia, „tím lépe.“
 
 Inultus mlčel chmurně. Vtom však vešla Placida a nesla večeři na stříbrné míse. Dona Flavia vybídla Inulta vlídně, by jedl. Nebyl se po celý den potravy dotekl a musil se nyní přemáhati, by příliš hltavým se nezdál. Zapomněl na chvíli na vše, co jej tísnilo, a pil a jedl bezstarostně, s velkou chutí, však přece střídmě. Dona Flavia nepožila než něco ovoce. Po večeři pravila pak Placidě: „Rozsviť lampy v dílně,“ a za chvíli vstala, odhrnula záclonu, za kterou se objevily malé dveře, a pravila: „Ukážu vám svou práci a povím vám, co mne přimělo vás k sobě pozvati. Pojďte.“
 
@@ -205,7 +205,7 @@ Hleděl na ni blouznivě. Cítila pravou lávu v žilách svých téci, v uš�
 
 Couvla na krok, pak pozvedla dýku a vrazila mu ji do prsou. Trhl sebou, až celým lešením zatřásl, a pohleděl na ni překvapeně. Probouzel se náhle ze svého blouznění. Něco mu šlehlo hlavou, co mu sevřelo srdce. Byl to žel nad ztrátou života, který nebyl žil a který nyní prchal, nad ztrátou mládí, jehož sladkou krásu nebyl chápal a které mu nyní zhasínalo náhle, byl to žel nad ztrátou toho slova, které mu v srdci nevyřknuté vřelo a které nyní navěky oněmí! Velká slza tekla mu pomalu po tváři. Pak ale pozvedl oči k Flavii a usmál se na ni.
 
-„Bože, odpusť jí,“ zašeptal, stín přeliti mu tvář, sklonil hlavu a skonal tichým vzdechem. Krev z jeho boku kapala těžkými krůpějemi na zem a temný, příšerný ten klepot, odměřený jako tikot hodin, probudil zbledlou Flavii ze zkamenělé její hrůzy. Sestupovala pomalu z lešení, jako ve snu kráčela pak dílnou, jako somnambula[7](./resources/undefined) přikročila k svému dílu a dala se v pravém deliriu nadšení do práce. Hodiny plynuly a Flavia neustala. Když slunce zapadalo a krvavou svou zář do dílny lilo, dokončila Flavia svůj krucifix. Odstoupila na krok, zář nevýslovného štěstí lila se jí z očí, poklekla, zvedla ruce nad hlavu a zvolala: „Jsemť jista, že dílo nesmrtelné vyšlo zpod mých rukou! Dostoupila jsem výš, o které jsem snila!“
+„Bože, odpusť jí,“ zašeptal, stín přeliti mu tvář, sklonil hlavu a skonal tichým vzdechem. Krev z jeho boku kapala těžkými krůpějemi na zem a temný, příšerný ten klepot, odměřený jako tikot hodin, probudil zbledlou Flavii ze zkamenělé její hrůzy. Sestupovala pomalu z lešení, jako ve snu kráčela pak dílnou, jako somnambula[^7] přikročila k svému dílu a dala se v pravém deliriu nadšení do práce. Hodiny plynuly a Flavia neustala. Když slunce zapadalo a krvavou svou zář do dílny lilo, dokončila Flavia svůj krucifix. Odstoupila na krok, zář nevýslovného štěstí lila se jí z očí, poklekla, zvedla ruce nad hlavu a zvolala: „Jsemť jista, že dílo nesmrtelné vyšlo zpod mých rukou! Dostoupila jsem výš, o které jsem snila!“
 
 Pak obrátila se k svému krvavému vzoru, a náhle zmizelo všechno nadšení a štěstí z jejích prsou a Flavia měla to hrozné vědomí, že spáchala vraždu. Padla těžce na podlahu a zůstala tam dlouho ležet. Tma byla již v dílně, když vstala. Pohlédla opět na Inulta. Zdálo se jí, že rozpíná ramena svá jí šerem vstříc, jako by po ní toužil. Vlasy se jí ježily. Zdálo se jí, že prahne po polibku bledých těch rtů.
 
@@ -283,18 +283,18 @@ Jak mohli to viděti ti hrdí, ješitností zpití, prázdnou slávou toho svět
 
 * * *
 
-[1](./resources/undefined) Kočár. Pozn. red.
+[^1]: Kočár. Pozn. red.
 
-[2](./resources/undefined) Milán. Pozn. red.
+[^2]: Milán. Pozn. red.
 
-[3](./resources/undefined) Jako v bojových elegiích řeckého básníka Tyrtaia. Pozn. red.
+[^3]: Jako v bojových elegiích řeckého básníka Tyrtaia. Pozn. red.
 
-[4](./resources/undefined) Žalozpěvy za padlé, podle řeckého básníka Thréna. Pozn. red.
+[^4]: Žalozpěvy za padlé, podle řeckého básníka Thréna. Pozn. red.
 
-[5](./resources/undefined) Boloňa. Pozn. red.
+[^5]: Boloňa. Pozn. red.
 
-[6](./resources/undefined) Nespokjenec. Pozn. red.
+[^6]: Nespokjenec. Pozn. red.
 
-[7](./resources/undefined) Náměsíčná. Pozn. red.
+[^7]: Náměsíčná. Pozn. red.
 
 </section>

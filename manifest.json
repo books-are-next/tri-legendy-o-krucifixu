@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "zeyer-tri-legendy-o-krucifixu-659d10f",
-  "revision": "659d10f",
+  "identifier": "zeyer-tri-legendy-o-krucifixu-d3d4c7d",
+  "revision": "d3d4c7d",
   "readingOrder": [
     "promo.html",
     "tri_legendy_o_krucifixu_005.html",
@@ -19,8 +19,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:32:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413977786
+    "date": "Thu Sep 29 2022 21:37:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487428763
   },
   "documents": [
     {
@@ -59,7 +59,7 @@
       "title": "Inultus Legenda pražská",
       "file": "tri_legendy_o_krucifixu_006.html",
       "words": 6005,
-      "chars": 35669,
+      "chars": 35676,
       "ideas": 146,
       "role": "chapter",
       "order": 2,
@@ -99,7 +99,7 @@
       "title": "Samko Pták Legenda slovenská",
       "file": "tri_legendy_o_krucifixu_008.html",
       "words": 6728,
-      "chars": 39175,
+      "chars": 39174,
       "ideas": 52,
       "role": "chapter",
       "order": 4,
@@ -139,12 +139,12 @@
   "totals": {
     "all": {
       "words": 20454,
-      "chars": 121011,
+      "chars": 121017,
       "ideas": 347
     },
     "chapters": {
       "words": 20312,
-      "chars": 120078,
+      "chars": 120084,
       "ideas": 328
     }
   }
